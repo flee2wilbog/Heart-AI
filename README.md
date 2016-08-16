@@ -1,2 +1,3 @@
 # Heart-AI
-AI for card game "Hearts"
+# AI for card game "Hearts"
+# Goal: find rational strategies
